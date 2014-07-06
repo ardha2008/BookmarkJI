@@ -186,3 +186,8 @@ http://devdocs.io
 ### Daftar library
 ----------
 http://www.jsdb.io/http://www.javascriptoo.com/ (with examples, categories, install commands, CDN links, project and author stats, and more.) 
+
+### Management Database
+----------
+
+http://knexjs.org/
