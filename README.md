@@ -95,7 +95,7 @@ http://github.com/dozymoe/PyBuildTool (Python)
 
 Testing Library:
 -------------------
-http://pivotal.github.io/jasmine/
+https://jasmine.github.io/
 
 http://visionmedia.github.com/mocha/
 
