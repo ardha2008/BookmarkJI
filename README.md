@@ -97,7 +97,7 @@ Testing Library:
 -------------------
 http://pivotal.github.io/jasmine/
 
-http://visionmedia.github.com/mocha/
+http://mochajs.org/
 
 http://theintern.io
 
